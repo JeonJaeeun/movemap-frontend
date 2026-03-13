@@ -1,0 +1,45 @@
+# OSX
+#
+.DS_Store
+
+node_modules/
+.expo/
+.expo-shared/ ept
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+android/.gradle/
+android/app/build/
+android/.idea/
+android/.cxx/
+android/local.properties
+android/CMakeCache.txt
+android/CMakeFiles/
+android/cmake-build-*/
+android/build/
+
+
+# Bundle artifacts
+*.jsbundle
+
+# Environment & system
+android/
+ios/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+
+
+MoveMap/android/gradle.properties
+
+google-services.json
+android/app/google-services.json
