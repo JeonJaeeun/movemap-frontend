@@ -86,20 +86,17 @@
 ## 📂 Project Structure
 
 MoveMap
-
-|- assets
-|- src
-||- api
-||- components
-||- data
-||- hooks
-||- screens
-||- utils
-|
- |- App.js
- |- app.config.js
- |- package.json
-
+├─ assets
+├─ src
+│ ├─ api
+│ ├─ components
+│ ├─ data
+│ ├─ hooks
+│ ├─ screens
+│ └─ utils
+├─ App.js
+├─ app.config.js
+└─ package.json
 
 ---
 
