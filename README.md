@@ -84,7 +84,7 @@
 ---
 
 ## 📂 Project Structure
-
+```
 MoveMap
 ├─ assets
 ├─ src
@@ -97,7 +97,7 @@ MoveMap
 ├─ App.js
 ├─ app.config.js
 └─ package.json
-
+```
 ---
 
 ## 🔐 Security Notice
